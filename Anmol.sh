@@ -187,6 +187,4 @@ echo "${YELLOW}${BOLD}=======================================================${R
 echo "${YELLOW}${BOLD}              LAB COMPLETED SUCCESSFULLY!              ${RESET}"
 echo "${YELLOW}${BOLD}=======================================================${RESET}"
 echo
-echo "${RED}${BOLD}${UNDERLINE}https://www.youtube.com/@TechCode9${RESET}"
-echo "${GREEN}${BOLD}Don't forget to Like, Share and Subscribe for more Videos${RESET}"
-echo
+
